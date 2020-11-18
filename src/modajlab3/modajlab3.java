@@ -38,7 +38,7 @@ import javafx.stage.Stage;
  */
 public class modajlab3 extends Application {
     
-            
+       
  Text ctc(){ 
  
     Text t1=new Text("Username");
@@ -144,4 +144,3 @@ Text ctc2(){
     }
     
 }
-
